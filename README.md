@@ -5,8 +5,8 @@ This is where I store my CSST101 Activities
 * **Subject Code:** CSST101 | Advanced Presentation and Reasoning
 
 ### Activities:
-* N/A
-* N/A
-* N/A
+* __Machine Problem 1__
+* Deadline: Sept. 2 2024
+* [3B-DRIZ-MP1](https://github.com/Suzuki-Yuuto/CSST101_Driz/tree/main/Activities/3B-DRIZ-MP1)
 
 Github Pages Link: N/A
