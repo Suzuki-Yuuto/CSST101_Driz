@@ -10,7 +10,7 @@ enables AI systems to reason, learn, and make decisions.
 
 ### Types of Knowledge Representation
 
-* Knowledge representation can take various forms, each with its own strengths, applications, and limitations. Here are three common types:
+Knowledge representation can take various forms, each with its own strengths, applications, and limitations. Here are three common types:
 
 1. Logic-Based Representation:
 
@@ -35,7 +35,7 @@ enables AI systems to reason, learn, and make decisions.
 
 ### Case Study Overview: AI Application Using Knowledge Representation
 
-* I chose a medical diagnostic system that employs AI to assist physicians in making clinical choices for my case study. This application uses a combination of frame-based structures and logic-based rules to describe knowledge. Features like test results, treatment alternatives, and symptoms are used to frame medical disorders. On the basis of patient data, logic-based methods are utilized to deduce potential diagnoses.
+I chose a medical diagnostic system that employs AI to assist physicians in making clinical choices for my case study. This application uses a combination of frame-based structures and logic-based rules to describe knowledge. Features like test results, treatment alternatives, and symptoms are used to frame medical disorders. On the basis of patient data, logic-based methods are utilized to deduce potential diagnoses.
 
 * Challenges Addressed:
 
@@ -45,7 +45,7 @@ enables AI systems to reason, learn, and make decisions.
 
 ### Your Knowledge Representation Model
 
-* I created a straightforward knowledge representation model to illustrate how to diagnose an illness based only on its symptoms. The model combines frames with a rule-based methodology:
+I created a straightforward knowledge representation model to illustrate how to diagnose an illness based only on its symptoms. The model combines frames with a rule-based methodology:
 
 * How the Model Works:
   * The model has frames that contain information about diseases, including typical symptoms and treatments, as well as rules that map symptoms to potential diagnosis.
