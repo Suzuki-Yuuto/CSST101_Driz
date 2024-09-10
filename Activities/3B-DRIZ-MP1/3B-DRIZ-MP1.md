@@ -1,3 +1,4 @@
+## [Video Link](https://github.com/Suzuki-Yuuto/CSST101_Driz/blob/main/Activities/3B-DRIZ-MP1/3B-DRIZ-MP1.mp4)
 
 # Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI.
 
