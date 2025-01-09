@@ -14,5 +14,7 @@ This is where I store my CSST101 Activities
 * [3B-DRIZ-EXER4](https://github.com/Suzuki-Yuuto/CSST101_Driz/tree/main/Activities/3B-DRIZ-EXER4)
 * [3B-DRIZ-MP4](https://github.com/Suzuki-Yuuto/CSST101_Driz/tree/main/Activities/3B-DRIZ-MP4)
 * [3B-DRIZ-EXER5](https://github.com/Suzuki-Yuuto/CSST101_Driz/tree/main/Activities/3B-DRIZ-EXER5)
+* [Final Project Chatbot](https://github.com/Suzuki-Yuuto/CSST101_Driz/tree/main/Activities/Final-Project-Chatbot)
+
 
 Github Pages Link: N/A
